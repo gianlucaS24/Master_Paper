@@ -5,4 +5,4 @@ I can hardly believe that a definitive, powerful code can sensibly exist, especi
 Not all functionalities of pysersic have been implemented, mainly because some of them are specific enough to allow for the user to custom the code and implement them by itself.
 Make sure to take a cup of coffee and carefully read through the comments present in the notebook, as it is of fundamental importance to understand what is going on, how to use the code and, last but not least, face the unavoidable debugging that will be required if anything is misplaced (by either of the two parts!).
 ## -------- NOTE --------- ##
-This repostory is temporary and meaningful up till paper publication. Once it will be out, a new repository complete of image, plots, code and anything else will be made public. Enjoy :) 
+This repostory is temporary and meaningful up till paper publication. Once it will be out, a new repository complete of image, plots, code and anything else will be made public. Enjoy and stay tuned :) 
