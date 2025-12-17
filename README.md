@@ -5,4 +5,6 @@ I can hardly believe that a definitive, general and powerful code can sensibly e
 Not all functionalities of pysersic have been implemented, mainly because some of them are specific enough to allow for the user to personalize the code and implement them by itself.
 Make sure to take a cup of coffee and carefully read through the comments present in the notebook, as it is of fundamental importance to understand what is going on, how to use the code and, last but not least, face the unavoidable debugging that will be required if anything is misplaced (by either of the two parts!).
 ## -------- NOTE --------- ##
-This repository is temporary and meaningful only up till paper publication. Once it will be out, a new repository complete of image, plots, code and anything else will be made public. Enjoy and stay tuned :) 
+This repository is temporary and meaningful only up till paper publication. Once it will be out, a new repository complete of image, plots, code and anything else will be made public. Enjoy and stay tuned :)
+## 
+Code is updated to Dec 17th 2025 : now it is possible to choose profile and prior type to insert in the function declaration without modifying the content of the class. Multi-source Sérsic fit is also possible to select alongside the mask performed with SEP.
