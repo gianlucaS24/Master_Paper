@@ -7,4 +7,4 @@ Make sure to take a cup of coffee and carefully read through the comments presen
 ## -------- NOTE --------- ##
 This repository is temporary and meaningful only up till paper publication. Once it will be out, a new repository complete of image, plots, code and anything else will be made public. Enjoy and stay tuned :)
 ## 
-Code is updated to Dec 17th 2025 : now it is possible to choose profile and prior type to insert in the function declaration without modifying the content of the class. Multi-source Sérsic fit is also possible to select alongside the mask performed with SEP.
+Code is updated to Dec 23rd 2025 : now it is possible to choose profile and prior type to insert in the function declaration without modifying the content of the class. Multi-source Sérsic fit is also possible to select alongside the mask performed with SEP. The reshaping of the PSF is now tuned on any size of the cutouts.
