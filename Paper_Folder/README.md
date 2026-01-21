@@ -1,5 +1,5 @@
 The Supplementary Material indicated in the paper reports all plots used in the paper plus all those plots that could not fit the limited number of pages dedicated to this work. 
-We refer as the classical one-component profile "simple Sérsic profile", whereas "single Sérsic profile" indicates a one-source fit and "multi-source Sérsic profile" for a multiple source fit.
+We refer to the classical one-component profile as "simple Sérsic profile", whereas "single Sérsic profile" indicates a one-source fit and "multi-source Sérsic profile" for a multiple source fit.
 For a single Sérsic profile the profile type may not be simple and will specified case by case.
 The .zip file with name " all_SEDs_Chi_50+residuals+plots " contains { residual plots + asdf files + corner plots } for various pysersic profile, comprising:
  - single Sérsic profile with masking (labelled "_single"),
