@@ -6,3 +6,4 @@ The .zip file with name " all_SEDs_Chi_50+residuals+plots " contains { residual 
 - multi-source (simple) Sérsic profile with and without (as used in the paper) masking ("_multisource" and "_multisource_small", respectively) and 
 - bulge-disk decomposition (indicated as "_bulge" files) with single Sérsic profile and masking.
 In the zip files are also present the SEDs. All those selected with UVJ box + mass cut + chi square cut are present and the "good" ones in a separate inner folder called "good_SED", the latter analyzed with pysersic.
+The label "cutouts_download" on cutouts taken directly from DJA interactive map indicates the removed sources addressed in the paper.
